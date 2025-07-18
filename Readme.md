@@ -1,0 +1,1 @@
+Belajar membuat GEMINI CHATBOT menggunakan vanila javascript bersama ka Susianti dari KODE.ID 
